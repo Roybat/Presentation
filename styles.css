@@ -41,3 +41,8 @@ color: grey;
 font-size: 0.8em;
 display: block;
 }
+
+.reseaux{
+max-width: 10%;
+max-height: 10%;
+}
