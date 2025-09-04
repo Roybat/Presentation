@@ -2,9 +2,9 @@ body{
 background-color: cream;
 color: black;
 font-family: Arial;
-margin: 5px;
 padding: 5px;
-max-width: 800%;
+max-width: 500px;;
+margin: 5 auto;
 }
 
 h1{
